@@ -1,0 +1,148 @@
+h1 {
+  font-family: 'Montserrat';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+#title {
+  background-color: #fdda16;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light',
+}
+
+.navbar-dark .navbar-brand {
+  font-size: 2rem;
+  font-family: 'Ubuntu', sans-serif;
+  color: #212529;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #212529;
+}
+
+/* Download Buttons */
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+  width: 90%;
+  transform: rotate(25deg);
+}
+
+/* Features */
+#features {
+  background-color: #fff;
+  padding: 10% 15%;
+}
+h3 {
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  line-height: 1.5;
+  padding: 10% 15%
+}
+
+p{
+  color: #8f8f8f;
+  font-family: 'Montserrat'
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.pic {
+  height: 12.5rem;
+  width: 12.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.pic {
+  height: 12.5rem;
+  width: 12.5rem;
+  margin-bottom: 1.25rem;
+}
+.pic1 {
+  height: 12.5rem;
+  width: 12.5rem;
+  margin-bottom: 1.25rem;
+}
+.pic2 {
+  height: 12.5rem;
+  width: 12.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.pic:hover{
+  transform: rotate(-25deg);
+}
+.pic1:hover{
+  transform: translateY(-10px);
+}
+.pic2:hover{
+  transform: rotate(25deg);
+}
+
+/* Testimonials */
+#testimonials {
+  background-color:#fdda16;
+  text-align: center;
+
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+.p1{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  color: #212529;
+padding: 0 30%;
+  text-align: center;
+}
+.m-logo{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+}
+
+.sony-logo{
+  width: 11%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press{
+  background-color:#fdda16;
+  padding: 3%;
+  text-align: center;
+
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
